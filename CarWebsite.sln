@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDataManager", "CWDataMana
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CWData", "CWData\CWData.sqlproj", "{785D3B75-1D85-4B04-BE0E-E7A0DF62B5F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDesktopUI", "CWDesktopUI\CWDesktopUI.csproj", "{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{785D3B75-1D85-4B04-BE0E-E7A0DF62B5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{785D3B75-1D85-4B04-BE0E-E7A0DF62B5F1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{785D3B75-1D85-4B04-BE0E-E7A0DF62B5F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
