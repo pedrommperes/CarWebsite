@@ -8,5 +8,6 @@ namespace CWDesktopUI.ViewModels
 {
     public class ShellViewModel
     {
+
     }
 }
