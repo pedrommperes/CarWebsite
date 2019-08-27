@@ -9,6 +9,10 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CWData", "CWData\CWData.sql
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDesktopUI", "CWDesktopUI\CWDesktopUI.csproj", "{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDataManager.Library", "CWDataManager.Library\CWDataManager.Library.csproj", "{8F31C37D-B9AB-462C-889F-A23CAF71A797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWDesktopUI.Library", "CWDesktopUI.Library\CWDesktopUI.Library.csproj", "{8B7DF71F-4D7E-43A3-A5DC-B498EB420A73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +33,14 @@ Global
 		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A2EEAEC-449E-414F-AF3D-C8A7C93C021A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F31C37D-B9AB-462C-889F-A23CAF71A797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F31C37D-B9AB-462C-889F-A23CAF71A797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F31C37D-B9AB-462C-889F-A23CAF71A797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F31C37D-B9AB-462C-889F-A23CAF71A797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7DF71F-4D7E-43A3-A5DC-B498EB420A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7DF71F-4D7E-43A3-A5DC-B498EB420A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7DF71F-4D7E-43A3-A5DC-B498EB420A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7DF71F-4D7E-43A3-A5DC-B498EB420A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
